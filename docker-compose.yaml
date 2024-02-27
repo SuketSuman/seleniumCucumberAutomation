@@ -1,0 +1,40 @@
+version: "3"
+services:
+  hub:
+    image: selenium/hub:3.141.59
+    ports:
+      - "4444:4444"
+  chrome:
+    image: selenium/chrome-debug:3.141.59
+    shm_size: '1gb'
+    depends_on:
+      - hub
+    environment:
+      - HUB_HOST=hub
+  firefox:
+    image: selenium/node-firefox:3.141.59
+    shm_size: '1gb'
+    depends_on:
+      - hub
+    environment:
+      - HUB_HOST=hub
+  dealsCpuChrome:
+    image: suketdocker/deals
+    depends_on:
+        - chrome
+        - firefox
+    environment:
+         - BROWSER=chrome
+         - HUB_HOST=hub
+    volumes:
+         - ./newOutputChrome:/usr/share/dealsAutomation/target
+  dealsCpuFirefox:
+    image: suketdocker/deals
+    depends_on:
+        - chrome
+        - firefox
+    environment:
+         - BROWSER=firefox
+         - HUB_HOST=hub
+    volumes:
+         - ./newOutputFirefox:/usr/share/dealsAutomation/target    

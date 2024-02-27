@@ -1,0 +1,59 @@
+2021-10-09 22:55:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-09 22:55:40 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to valuate the property using Zoopla link
+2021-10-09 22:55:40 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed
+2021-10-20 05:49:31 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-20 05:49:31 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 10:58:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to search ptoperties
+2021-10-28 10:58:48 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 13:47:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 13:47:48 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 13:47:48 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 13:47:48 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 13:47:48 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to search ptoperties
+2021-10-28 13:47:48 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 13:47:48 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to search ptoperties
+2021-10-28 13:47:48 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 13:50:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 13:50:26 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 13:50:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 13:50:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 13:50:26 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to search ptoperties
+2021-10-28 13:50:26 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 13:50:26 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to search ptoperties
+2021-10-28 13:50:26 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 16:45:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 16:45:22 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 16:45:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 16:45:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 16:45:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to search ptoperties
+2021-10-28 16:45:22 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 16:45:22 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to search ptoperties
+2021-10-28 16:45:22 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 17:01:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 17:01:00 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 17:01:00 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 17:01:00 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 17:01:00 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to search ptoperties
+2021-10-28 17:01:00 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 17:01:00 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to search ptoperties
+2021-10-28 17:01:00 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 17:10:20 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 17:10:20 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 17:10:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 17:10:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 17:10:20 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to search ptoperties
+2021-10-28 17:10:20 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 17:10:20 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to search ptoperties
+2021-10-28 17:10:20 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: failed
+2021-10-28 17:18:45 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 17:18:45 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 17:39:45 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 17:39:45 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-10-28 20:33:49 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-28 20:33:49 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-02 13:15:43 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-11-02 13:15:43 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-25 00:55:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-11-25 00:55:57 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot
+2021-11-25 00:56:57 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-11-25 00:56:57 [INFO ] [Browser] - [takeScreenshot] Exception has Occured while taking screenshot

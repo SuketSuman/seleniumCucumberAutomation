@@ -1,0 +1,3 @@
+2021-10-09 22:59:22 [INFO ] [Hooks] - [setUp] Scenario Started: Verify if user is able to valuate the property using Zoopla link
+2021-10-09 22:59:29 [INFO ] [Hooks] - [closeBrowser] Scenario Completed: Verify if user is able to valuate the property using Zoopla link
+2021-10-09 22:59:29 [INFO ] [Hooks] - [closeBrowser] Scenario Status is: passed

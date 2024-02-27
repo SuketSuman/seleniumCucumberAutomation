@@ -1,0 +1,1 @@
+java -cp selenium-docker.jar;selenium-docker-tests.jar;libs/* -Dcucumber.options=classpath:FeatureFiles org.junit.runner.JUnitCore com.tutorialsninja.automation.runner.TestRunner

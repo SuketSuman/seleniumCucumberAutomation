@@ -1,0 +1,3 @@
+com\tutorialsninja\automation\runner\TestRunner.class
+com\tutorialsninja\automation\stepdef\AIvaluation.class
+com\tutorialsninja\automation\stepdef\Hooks.class

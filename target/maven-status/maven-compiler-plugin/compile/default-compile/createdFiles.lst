@@ -1,0 +1,11 @@
+com\tutorialsninja\automation\framework\Test.class
+com\tutorialsninja\automation\base\Base.class
+com\tutorialsninja\automation\pages\detailsPage.class
+com\tutorialsninja\automation\util\PathHelper.class
+com\tutorialsninja\automation\pages\HeaderSection.class
+com\tutorialsninja\automation\config\PropertyFileReader.class
+com\tutorialsninja\automation\framework\Browser.class
+com\tutorialsninja\automation\framework\Elements.class
+com\tutorialsninja\automation\pages\AIvaluationpage.class
+com\tutorialsninja\automation\framework\Waits.class
+com\tutorialsninja\automation\config\ConfigurationReader.class
